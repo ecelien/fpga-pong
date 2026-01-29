@@ -1,6 +1,6 @@
 # FPGA Pong
 
-This repository contains the VHDL/Verilog source code for a Pong game implementation on FPGA (Basys 3 default). This was a group project for EEL 4930 - System-on-Chip Design at the University of Florida alongside group members Nikodem Gazda and Lucas Mueller. This version is a purely hardware implementation of the game, focusing on signal generation and IO interfaces.
+This repository contains the VHDL/Verilog source code for a Pong game implementation on FPGA (Basys 3 default). This was a group project for EEL 5934 - System-on-Chip Design at the University of Florida alongside group members Nikodem Gazda and Lucas Mueller. This version is a purely hardware implementation of the game, focusing on signal generation and IO interfaces.
 
 ## Directory Structure
 - `hw/rtl`: Source code (VHDL/Verilog)
