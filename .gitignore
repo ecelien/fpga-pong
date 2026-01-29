@@ -1,0 +1,5 @@
+hw/vivado/
+vivado.jou
+vivado.log
+.Xil
+vivado_*
