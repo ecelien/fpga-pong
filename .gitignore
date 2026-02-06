@@ -1,5 +1,7 @@
-hw/vivado/
-vivado.jou
-vivado.log
+*.jou
+vivado/
+vitis/
+*.log
 .Xil
-vivado_*
+*.xsa
+.Xil/
